@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:hint="Digite uma nova tarefa"
         android:imeOptions="actionDone"
-        android:inputType="numberPassword"
+        android:inputType="text"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
